@@ -1,0 +1,6 @@
+{
+  "name": "Nuke School",
+  "description": "Learn. Build. Get Placed. Become the software engineer that companies want to hire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
